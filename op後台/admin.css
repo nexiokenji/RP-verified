@@ -1,0 +1,27 @@
+.style1 {
+    color: #FFFFFF;
+}
+
+em {
+   color: #FF0000;
+}
+td.head {
+   background-color: #525D76;
+   color: #FFFFFF;
+   height: 25px;
+}
+td.pageInfo {
+   background-color: #f0f6ec;
+}
+td.button {
+   background-color: #FFFFFF;
+}
+td {
+   background-color: #CCCCCC;
+}
+body{
+    font-size:10pt;
+}
+p.center{
+   text-align:center;
+}

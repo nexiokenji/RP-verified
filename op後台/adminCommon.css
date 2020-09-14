@@ -1,0 +1,316 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* clear */
+  .clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  
+  .clearfix {
+    zoom: 1;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
+  /* Float Set */
+  .float-L, .prevMonth {
+    float: left;
+  }
+  
+  .float-R, .nextMonth {
+    float: right;
+  }
+  
+  /* Align Set */
+  .align-L {
+    text-align: left;
+  }
+  
+  .align-R {
+    text-align: right;
+  }
+  
+  .align-C, .calendarForm th, .nowrap, .calendarTable_2 th, .calendarTable_2 td, .page_BGwhite, .page_BGblack {
+    text-align: center;
+  }
+  
+  /* BGcolor */
+  .BGcolor_Gray {
+    background-color: #ECECEC;
+  }
+  
+  /* color */
+  .color_Red {
+    color: #D91717;
+  }
+  
+  .color_Blue {
+    color: #0657B9;
+  }
+  
+  .color_Orange, .page_BGwhite a:hover, .page_BGblack a:hover, .page_BGwhite .a_firstLast:hover, .page_BGblack .a_firstLast:hover {
+    color: #FD8503;
+  }
+  
+  .color_Green {
+    color: #099113;
+  }
+  
+  /* Hide Text Set */
+  /*calendarPanel*/
+  .calendarPanel {
+    position: absolute;
+    z-index: 9999;
+    left: 0px;
+    top: 0px;
+    background-color: #fff;
+  }
+  
+  .calendarForm {
+    margin: 0px;
+  }
+  
+  .calendarTable_1 {
+    background-color: #FD8503;
+    border-top: 2px solid #fff;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .calendarTable_1 th {
+    padding: 3px;
+    border: none;
+  }
+  
+  .calendarTable_1 input {
+    cursor: pointer;
+    border: none;
+    width: 30px;
+    height: 20px;
+  }
+  
+  .prevMonth {
+    background: url(../images/iconSet.gif) no-repeat 5px -539px #FD8503;
+  }
+  
+  .prevMonth:hover {
+    background: url(../images/iconSet.gif) no-repeat 5px -580px #FD8503;
+  }
+  
+  .nowrap {
+    padding: 3px 10px;
+  }
+  
+  .calendarYear {
+    width: 60px;
+    margin: 0 0 0 5px;
+  }
+  
+  .calendarMonth {
+    width: 70px;
+  }
+  
+  .nextMonth {
+    background: url(../images/iconSet.gif) no-repeat -36px -539px #FD8503;
+  }
+  
+  .nextMonth:hover {
+    background: url(../images/iconSet.gif) no-repeat -36px -580px #FD8503;
+  }
+  
+  .calendarTable_2 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .calendarTable_2 th {
+    width: 30px;
+    padding: 3px;
+    border: 1px solid #C1C1C1;
+    font-weight: normal;
+    color: #FFF;
+  }
+  
+  .calendarTable_2 td {
+    width: 30px;
+    padding: 3px;
+    border: 1px solid #C1C1C1;
+  }
+  
+  .calendarTable_title {
+    background-color: #666;
+    border: none;
+    font-size: 14px;
+  }
+  
+  .calendarTable_inputBox {
+    background-color: #c2c2c2;
+  }
+  
+  .calendarTable_inputBox input {
+    border: 1px solid #CCCCCC;
+    background-color: #666;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    height: 20px;
+    font-size: 12px;
+    border: none;
+    padding: 0 0 1px 0;
+  }
+  
+  .calendarTable_inputBox input:hover {
+    background-color: #FD8503;
+  }
+  
+  .calendarTable_inputBox .calendarInput1_ie7 {
+    *width: 55px;
+  }
+  
+  .calendarTable_inputBox .calendarInput2_ie7 {
+    *width: 85px;
+  }
+  
+  .comingDate {
+    text-decoration: line-through;
+  }
+  
+  /* page */
+  .page_BGwhite, .page_BGblack {
+    line-height: 20px;
+    padding: 15px 0;
+  }
+  
+  .page_BGwhite a, .page_BGblack a {
+    padding: 2px 10px;
+    text-decoration: none;
+  }
+  
+  .page_BGwhite a:hover, .page_BGblack a:hover {
+    border-radius: 3px;
+  }
+  
+  .page_BGwhite .a_now, .page_BGblack .a_now {
+    text-decoration: underline;
+  }
+  
+  .page_BGwhite .a_firstLast:hover, .page_BGblack .a_firstLast:hover {
+    text-decoration: underline;
+  }
+  
+  .page_BGwhite a {
+    color: #797979;
+  }
+  
+  .page_BGwhite a:hover {
+    background-color: #ECECEC;
+  }
+  
+  .page_BGwhite .a_noFinger {
+    cursor: default;
+  }
+  
+  .page_BGwhite .a_noFinger:hover {
+    color: #797979;
+    background-color: #fff;
+  }
+  
+  .page_BGblack a {
+    color: #d2d2d2;
+  }
+  
+  .page_BGblack a:hover {
+    background-color: #000;
+  }
+  
+  .page_BGblack .a_noFinger {
+    cursor: default;
+    color: #D2D2D2;
+  }
+  
+  .page_BGblack .a_noFinger:hover {
+    color: #D2D2D2;
+    background-color: #5B5B5B;
+  }
+  
+  .button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .button1 {
+      background-color: #e7e7e7; /* Gray */
+      /* border: none; */
+      color: black;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .redButton {
+      background-color: #f44336; /* Red */
+     /*  border: none; */
+      color: white;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .disabledRedButton {
+      background-color: #f44336; /* Red */
+      border: none;
+      color: white;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .orangeButton {
+      background-color: #e68a00; /* Orange */
+      /* border: none; */
+      color: white;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .greenButton {
+      background-color: #009900; /* green */
+     /*  border: none; */
+      color: white;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
+  
+  .disabledButton {
+      background-color: #e7e7e7; /* Gray */
+      border: none;
+      color: black;
+      padding: 6px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+  }
