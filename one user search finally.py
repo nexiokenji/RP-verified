@@ -13,7 +13,7 @@ with open('2000users 15wBet.csv', newline='') as csvfile:
   betList = []
   data = {}
   for row in reader:
-    if row[0] == "user0928":   #填寫單一userID
+    if row[0] == "user0929":   #填寫單一userID
       if(float(row[1])>=5):
         betList.append(float(row[1]))
   print("原始資料: ", "\n", betList, "\n")  
