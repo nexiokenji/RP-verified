@@ -13,12 +13,12 @@ def AVERAGE(data_list):
         return average_data
 
 #打開CSV 檔 並搜尋單一user
-with open('2000user 3wBet.csv', newline='') as csvfile:
+with open('kenji.csv', newline='') as csvfile:
   reader = csv.reader(csvfile)
   betList = []
   data = {}
   for row in reader:
-    if row[0] == "User0005":   #填寫單一userID
+    if row[0] == "user0005":   #填寫單一userID
       if(float(row[1])>=5):   #filter 5元以下的投注金額
         betList.append(float(row[1]))
       print(row)
