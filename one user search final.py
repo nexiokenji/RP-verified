@@ -8,19 +8,19 @@ def AVERAGE(data_list, baseNumber, removeCount):
       return sum(data_list) / (baseNumber-removeCount)
 
 #打開CSV 檔 並搜尋單一user
-with open('2000users 15wBet.csv', newline='') as csvfile:
+with open('2000users30wBet.csv', newline='') as csvfile:
   reader = csv.reader(csvfile)
   betList = []
   data = {}
   for row in reader:
-    if row[0] == "user0929":   #填寫單一userID
+    if row[0] == "user0933":   #填寫單一userID
       if(float(row[1])>=5):
         betList.append(float(row[1]))
   print("原始資料: ", "\n", betList, "\n")  
 
 
   #baseNumber幾個為一組，15表示15局為1個紅包
-  baseNumber = 15
+  baseNumber = 30
   #removeCount為每組要刪除幾個最高數值，3表示每組刪除3個最高數值
   removeCount = 3
   betListLength = len(betList)
@@ -29,12 +29,12 @@ with open('2000users 15wBet.csv', newline='') as csvfile:
   count = 0
 
   for k in range(divide):
-    betListTemp = betList[count*k:(count*k)+baseNumber]
-    print("第", k+1, "組: ", "\n", betListTemp)
+    betListTemp = betList[baseNumber*k:(baseNumber*k)+baseNumber]
+    print("第", k+1, "個紅包投注額: ", "\n", betListTemp)
 
     for i in range(removeCount):
       betListTemp.remove(max(betListTemp))
-    print("第", k+1, "組 扣掉最高三組：", "\n", betListTemp)
+    print("第", k+1, "個紅包投注額 扣掉最高三組後：", "\n", betListTemp)
 
     print("總和: ", sum(betListTemp), "平均: ", AVERAGE(betListTemp, baseNumber, removeCount), "\n")
 

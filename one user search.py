@@ -13,7 +13,7 @@ def AVERAGE(data_list):
         return average_data
 
 #打開CSV 檔 並搜尋單一user
-with open('kenji.csv', newline='') as csvfile:
+with open('100user7500Bet.csv', newline='') as csvfile:
   reader = csv.reader(csvfile)
   betList = []
   data = {}

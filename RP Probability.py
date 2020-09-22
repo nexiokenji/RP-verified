@@ -2,12 +2,12 @@
 
 #RP = int(input("此等級紅包個數:"))
 Players = int(input("此投注等級有幾位玩家:"))
-Level0 = float(input("L0 :"))
-Level1 = float(input("L1 :"))
-Level2 = float(input("L2 :"))
-Level3= float(input("L3:"))
-Level4 = float(input("L4 :"))
-Level5 = float(input("L5 :"))
+Level0 = float(input("紅包等級L0:"))
+Level1 = float(input("紅包等級L1:"))
+Level2 = float(input("紅包等級L2:"))
+Level3= float(input("紅包等級L3:"))
+Level4 = float(input("紅包等級L4:"))
+Level5 = float(input("紅包等級L5:"))
 
 RP = Players * 5
 LV0  = (RP * Level0) / 100

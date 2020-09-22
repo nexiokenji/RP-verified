@@ -10,7 +10,7 @@ def AVERAGE(data_list):
         average_data = float(sum(data_list))/len(data_list)
         return average_data
 
-with open('kenji.csv', newline='') as csvfile:
+with open('2000users30wBet.csv', newline='') as csvfile:
   reader = csv.reader(csvfile)
   data = {}
   for row in reader:
