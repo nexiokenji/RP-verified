@@ -1,0 +1,173 @@
+------ Red packets start ------
+[RuleId]:4403,[DealerDomain]:Mexico,[Website]:UNITTest,[Currency]:JP,[DetailId]:4403000000532,[Seq]:000000532,[UserId]:user1959,[Reward]:5,[Status]:DEFAULT,[RedPacketGrade]:L1,[BetGrade]:L0,[RewardTime]:2020/09/21 16:30:41.080,[DrawTime]:null
+[RuleId]:4403,[DealerDomain]:Mexico,[Website]:UNITTest,[Currency]:JP,[DetailId]:4403000002664,[Seq]:000002664,[UserId]:user1959,[Reward]:0,[Status]:DEFAULT,[RedPacketGrade]:L0,[BetGrade]:L0,[RewardTime]:2020/09/21 16:41:15.531,[DrawTime]:null
+[RuleId]:4403,[DealerDomain]:Mexico,[Website]:UNITTest,[Currency]:JP,[DetailId]:4403000005335,[Seq]:000005335,[UserId]:user1959,[Reward]:0,[Status]:DEFAULT,[RedPacketGrade]:L0,[BetGrade]:L0,[RewardTime]:2020/09/21 16:55:21.385,[DrawTime]:null
+[RuleId]:4403,[DealerDomain]:Mexico,[Website]:UNITTest,[Currency]:JP,[DetailId]:4403000007715,[Seq]:000007715,[UserId]:user1959,[Reward]:8,[Status]:DEFAULT,[RedPacketGrade]:L1,[BetGrade]:L0,[RewardTime]:2020/09/21 17:09:01.832,[DrawTime]:null
+[RuleId]:4403,[DealerDomain]:Mexico,[Website]:UNITTest,[Currency]:JP,[DetailId]:4403000008870,[Seq]:000008870,[UserId]:user1959,[Reward]:4,[Status]:DEFAULT,[RedPacketGrade]:L1,[BetGrade]:L0,[RewardTime]:2020/09/21 17:15:33.730,[DrawTime]:null
+------ 總獎金: 17 ------
+------ Bet records start ------
+--- 紅包: 1 ---
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA122585,[ValidTurnover]:50.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.462,[RoundStartTime]:2020/09/21 16:27:06.462
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA124851,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.470,[RoundStartTime]:2020/09/21 16:27:06.470
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA11714,[ValidTurnover]:54.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.327,[RoundStartTime]:2020/09/21 16:27:06.327
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA124248,[ValidTurnover]:54.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.468,[RoundStartTime]:2020/09/21 16:27:06.468
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA142179,[ValidTurnover]:57.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.537,[RoundStartTime]:2020/09/21 16:27:06.537
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA125146,[ValidTurnover]:59.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.472,[RoundStartTime]:2020/09/21 16:27:06.472
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA135483,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.513,[RoundStartTime]:2020/09/21 16:27:06.513
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA147699,[ValidTurnover]:68.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.556,[RoundStartTime]:2020/09/21 16:27:06.556
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA146891,[ValidTurnover]:68.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.553,[RoundStartTime]:2020/09/21 16:27:06.553
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA149507,[ValidTurnover]:69.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.562,[RoundStartTime]:2020/09/21 16:27:06.562
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA17798,[ValidTurnover]:71.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.365,[RoundStartTime]:2020/09/21 16:27:06.365
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA130727,[ValidTurnover]:72.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.495,[RoundStartTime]:2020/09/21 16:27:06.495
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA123602,[ValidTurnover]:74.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.465,[RoundStartTime]:2020/09/21 16:27:06.465
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA11882,[ValidTurnover]:75.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.329,[RoundStartTime]:2020/09/21 16:27:06.329
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA135275,[ValidTurnover]:75.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.512,[RoundStartTime]:2020/09/21 16:27:06.512
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA111804,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.396,[RoundStartTime]:2020/09/21 16:27:06.396
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA141566,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.534,[RoundStartTime]:2020/09/21 16:27:06.534
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA141473,[ValidTurnover]:78.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.534,[RoundStartTime]:2020/09/21 16:27:06.534
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA145730,[ValidTurnover]:80.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.549,[RoundStartTime]:2020/09/21 16:27:06.549
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA123852,[ValidTurnover]:83.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.466,[RoundStartTime]:2020/09/21 16:27:06.466
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA15675,[ValidTurnover]:84.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.353,[RoundStartTime]:2020/09/21 16:27:06.353
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA135204,[ValidTurnover]:86.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.512,[RoundStartTime]:2020/09/21 16:27:06.512
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA12322,[ValidTurnover]:87.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.333,[RoundStartTime]:2020/09/21 16:27:06.333
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA151845,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.570,[RoundStartTime]:2020/09/21 16:27:06.570
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA112035,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.397,[RoundStartTime]:2020/09/21 16:27:06.397
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA133572,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.505,[RoundStartTime]:2020/09/21 16:27:06.505
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA135957,[ValidTurnover]:89.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.515,[RoundStartTime]:2020/09/21 16:27:06.515
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA139468,[ValidTurnover]:92.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.527,[RoundStartTime]:2020/09/21 16:27:06.527
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA127424,[ValidTurnover]:94.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.482,[RoundStartTime]:2020/09/21 16:27:06.482
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA132685,[ValidTurnover]:94.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.502,[RoundStartTime]:2020/09/21 16:27:06.502
+------ 總和: 1963.0 ------
+------ 平均: 72.7 ------
+--- 紅包: 2 ---
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA154825,[ValidTurnover]:50.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.582,[RoundStartTime]:2020/09/21 16:27:06.582
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA165958,[ValidTurnover]:50.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.617,[RoundStartTime]:2020/09/21 16:27:06.617
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA194233,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.702,[RoundStartTime]:2020/09/21 16:27:06.702
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA156633,[ValidTurnover]:54.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.588,[RoundStartTime]:2020/09/21 16:27:06.588
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA184502,[ValidTurnover]:56.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.678,[RoundStartTime]:2020/09/21 16:27:06.678
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA155420,[ValidTurnover]:59.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.584,[RoundStartTime]:2020/09/21 16:27:06.584
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA155302,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.583,[RoundStartTime]:2020/09/21 16:27:06.583
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA161987,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.607,[RoundStartTime]:2020/09/21 16:27:06.607
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA174186,[ValidTurnover]:66.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.652,[RoundStartTime]:2020/09/21 16:27:06.652
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA194349,[ValidTurnover]:70.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.703,[RoundStartTime]:2020/09/21 16:27:06.703
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA185957,[ValidTurnover]:71.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.682,[RoundStartTime]:2020/09/21 16:27:06.682
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA182933,[ValidTurnover]:71.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.674,[RoundStartTime]:2020/09/21 16:27:06.674
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA159963,[ValidTurnover]:73.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.600,[RoundStartTime]:2020/09/21 16:27:06.600
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA189441,[ValidTurnover]:73.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.691,[RoundStartTime]:2020/09/21 16:27:06.691
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA168602,[ValidTurnover]:75.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.624,[RoundStartTime]:2020/09/21 16:27:06.624
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA196832,[ValidTurnover]:75.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.709,[RoundStartTime]:2020/09/21 16:27:06.709
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA192261,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.697,[RoundStartTime]:2020/09/21 16:27:06.697
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA179732,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.666,[RoundStartTime]:2020/09/21 16:27:06.666
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1105456,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.732,[RoundStartTime]:2020/09/21 16:27:06.732
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA154203,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.579,[RoundStartTime]:2020/09/21 16:27:06.579
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA157428,[ValidTurnover]:78.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.591,[RoundStartTime]:2020/09/21 16:27:06.591
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA190406,[ValidTurnover]:80.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.693,[RoundStartTime]:2020/09/21 16:27:06.693
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1112433,[ValidTurnover]:87.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.749,[RoundStartTime]:2020/09/21 16:27:06.749
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1103312,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.727,[RoundStartTime]:2020/09/21 16:27:06.727
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1111715,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.748,[RoundStartTime]:2020/09/21 16:27:06.748
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1111999,[ValidTurnover]:92.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.748,[RoundStartTime]:2020/09/21 16:27:06.748
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA163769,[ValidTurnover]:93.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.612,[RoundStartTime]:2020/09/21 16:27:06.612
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA153373,[ValidTurnover]:95.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.575,[RoundStartTime]:2020/09/21 16:27:06.575
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA176848,[ValidTurnover]:98.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.658,[RoundStartTime]:2020/09/21 16:27:06.658
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA152504,[ValidTurnover]:99.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.572,[RoundStartTime]:2020/09/21 16:27:06.572
+------ 總和: 1931.0 ------
+------ 平均: 71.5 ------
+--- 紅包: 3 ---
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1141898,[ValidTurnover]:50.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.860,[RoundStartTime]:2020/09/21 16:27:06.860
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1159014,[ValidTurnover]:51.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.911,[RoundStartTime]:2020/09/21 16:27:06.911
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1178669,[ValidTurnover]:51.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.974,[RoundStartTime]:2020/09/21 16:27:06.974
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1131773,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.804,[RoundStartTime]:2020/09/21 16:27:06.804
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1183842,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.994,[RoundStartTime]:2020/09/21 16:27:06.994
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1167147,[ValidTurnover]:53.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.936,[RoundStartTime]:2020/09/21 16:27:06.936
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1137801,[ValidTurnover]:53.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.826,[RoundStartTime]:2020/09/21 16:27:06.826
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1117741,[ValidTurnover]:58.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.763,[RoundStartTime]:2020/09/21 16:27:06.763
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1162609,[ValidTurnover]:62.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.922,[RoundStartTime]:2020/09/21 16:27:06.922
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1148627,[ValidTurnover]:64.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.880,[RoundStartTime]:2020/09/21 16:27:06.880
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1145120,[ValidTurnover]:68.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.869,[RoundStartTime]:2020/09/21 16:27:06.869
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1117277,[ValidTurnover]:68.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.761,[RoundStartTime]:2020/09/21 16:27:06.761
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1127142,[ValidTurnover]:69.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.787,[RoundStartTime]:2020/09/21 16:27:06.787
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1123632,[ValidTurnover]:69.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.777,[RoundStartTime]:2020/09/21 16:27:06.777
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1178206,[ValidTurnover]:71.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.973,[RoundStartTime]:2020/09/21 16:27:06.973
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1136257,[ValidTurnover]:72.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.821,[RoundStartTime]:2020/09/21 16:27:06.821
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1171426,[ValidTurnover]:72.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.952,[RoundStartTime]:2020/09/21 16:27:06.952
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1171898,[ValidTurnover]:73.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.954,[RoundStartTime]:2020/09/21 16:27:06.954
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1160580,[ValidTurnover]:74.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.915,[RoundStartTime]:2020/09/21 16:27:06.915
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1174761,[ValidTurnover]:74.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.962,[RoundStartTime]:2020/09/21 16:27:06.962
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1151624,[ValidTurnover]:74.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.889,[RoundStartTime]:2020/09/21 16:27:06.889
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1162878,[ValidTurnover]:81.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.923,[RoundStartTime]:2020/09/21 16:27:06.923
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1132660,[ValidTurnover]:82.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.808,[RoundStartTime]:2020/09/21 16:27:06.808
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1119092,[ValidTurnover]:86.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.766,[RoundStartTime]:2020/09/21 16:27:06.766
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1114146,[ValidTurnover]:86.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.754,[RoundStartTime]:2020/09/21 16:27:06.754
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1166004,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.933,[RoundStartTime]:2020/09/21 16:27:06.933
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1160469,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.915,[RoundStartTime]:2020/09/21 16:27:06.915
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1150460,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.885,[RoundStartTime]:2020/09/21 16:27:06.885
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1140386,[ValidTurnover]:91.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.833,[RoundStartTime]:2020/09/21 16:27:06.833
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1169664,[ValidTurnover]:93.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.947,[RoundStartTime]:2020/09/21 16:27:06.947
+------ 總和: 1843.0 ------
+------ 平均: 68.2 ------
+--- 紅包: 4 ---
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1246803,[ValidTurnover]:51.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.194,[RoundStartTime]:2020/09/21 16:27:07.194
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1228670,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.143,[RoundStartTime]:2020/09/21 16:27:07.143
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1237472,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.168,[RoundStartTime]:2020/09/21 16:27:07.168
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1226267,[ValidTurnover]:54.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.137,[RoundStartTime]:2020/09/21 16:27:07.137
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1219600,[ValidTurnover]:55.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.118,[RoundStartTime]:2020/09/21 16:27:07.118
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1203603,[ValidTurnover]:57.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.050,[RoundStartTime]:2020/09/21 16:27:07.050
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1194352,[ValidTurnover]:57.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.024,[RoundStartTime]:2020/09/21 16:27:07.024
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1217078,[ValidTurnover]:59.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.111,[RoundStartTime]:2020/09/21 16:27:07.111
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1242243,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.181,[RoundStartTime]:2020/09/21 16:27:07.181
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1212325,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.074,[RoundStartTime]:2020/09/21 16:27:07.074
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1248038,[ValidTurnover]:61.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.198,[RoundStartTime]:2020/09/21 16:27:07.198
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1219275,[ValidTurnover]:63.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.117,[RoundStartTime]:2020/09/21 16:27:07.117
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1216461,[ValidTurnover]:64.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.109,[RoundStartTime]:2020/09/21 16:27:07.109
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1195463,[ValidTurnover]:64.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.027,[RoundStartTime]:2020/09/21 16:27:07.027
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1197119,[ValidTurnover]:64.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.032,[RoundStartTime]:2020/09/21 16:27:07.032
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1238897,[ValidTurnover]:66.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.172,[RoundStartTime]:2020/09/21 16:27:07.172
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1196868,[ValidTurnover]:69.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.031,[RoundStartTime]:2020/09/21 16:27:07.031
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1215131,[ValidTurnover]:72.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.105,[RoundStartTime]:2020/09/21 16:27:07.105
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1237200,[ValidTurnover]:74.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.167,[RoundStartTime]:2020/09/21 16:27:07.167
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1233352,[ValidTurnover]:75.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.156,[RoundStartTime]:2020/09/21 16:27:07.156
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1186778,[ValidTurnover]:76.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.002,[RoundStartTime]:2020/09/21 16:27:07.002
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1250846,[ValidTurnover]:80.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.206,[RoundStartTime]:2020/09/21 16:27:07.206
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1222402,[ValidTurnover]:82.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.126,[RoundStartTime]:2020/09/21 16:27:07.126
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1184673,[ValidTurnover]:82.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:06.996,[RoundStartTime]:2020/09/21 16:27:06.996
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1200527,[ValidTurnover]:89.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.041,[RoundStartTime]:2020/09/21 16:27:07.041
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1224552,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.132,[RoundStartTime]:2020/09/21 16:27:07.132
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1245105,[ValidTurnover]:92.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.190,[RoundStartTime]:2020/09/21 16:27:07.190
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1241755,[ValidTurnover]:95.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.180,[RoundStartTime]:2020/09/21 16:27:07.180
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1247370,[ValidTurnover]:98.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.196,[RoundStartTime]:2020/09/21 16:27:07.196
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1232464,[ValidTurnover]:99.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.154,[RoundStartTime]:2020/09/21 16:27:07.154
+------ 總和: 1820.0 ------
+------ 平均: 67.4 ------
+--- 紅包: 5 ---
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1253305,[ValidTurnover]:51.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.213,[RoundStartTime]:2020/09/21 16:27:07.213
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1252441,[ValidTurnover]:52.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.211,[RoundStartTime]:2020/09/21 16:27:07.211
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1269803,[ValidTurnover]:56.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.264,[RoundStartTime]:2020/09/21 16:27:07.264
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1281811,[ValidTurnover]:57.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.298,[RoundStartTime]:2020/09/21 16:27:07.298
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1261920,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.238,[RoundStartTime]:2020/09/21 16:27:07.238
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1257182,[ValidTurnover]:60.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.224,[RoundStartTime]:2020/09/21 16:27:07.224
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1261473,[ValidTurnover]:61.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.236,[RoundStartTime]:2020/09/21 16:27:07.236
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1287559,[ValidTurnover]:62.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.313,[RoundStartTime]:2020/09/21 16:27:07.313
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1267603,[ValidTurnover]:62.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.258,[RoundStartTime]:2020/09/21 16:27:07.258
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1276121,[ValidTurnover]:64.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.282,[RoundStartTime]:2020/09/21 16:27:07.282
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1270760,[ValidTurnover]:66.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.267,[RoundStartTime]:2020/09/21 16:27:07.267
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1285002,[ValidTurnover]:66.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.307,[RoundStartTime]:2020/09/21 16:27:07.307
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1281895,[ValidTurnover]:66.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.298,[RoundStartTime]:2020/09/21 16:27:07.298
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1262528,[ValidTurnover]:69.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.240,[RoundStartTime]:2020/09/21 16:27:07.240
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1290629,[ValidTurnover]:73.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.322,[RoundStartTime]:2020/09/21 16:27:07.322
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1265212,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.251,[RoundStartTime]:2020/09/21 16:27:07.251
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1291453,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.324,[RoundStartTime]:2020/09/21 16:27:07.324
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1275983,[ValidTurnover]:77.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.281,[RoundStartTime]:2020/09/21 16:27:07.281
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1286876,[ValidTurnover]:79.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.312,[RoundStartTime]:2020/09/21 16:27:07.312
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1278477,[ValidTurnover]:84.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.288,[RoundStartTime]:2020/09/21 16:27:07.288
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1263401,[ValidTurnover]:86.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.245,[RoundStartTime]:2020/09/21 16:27:07.245
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1263625,[ValidTurnover]:87.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.246,[RoundStartTime]:2020/09/21 16:27:07.246
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1262942,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.242,[RoundStartTime]:2020/09/21 16:27:07.242
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1268454,[ValidTurnover]:88.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.261,[RoundStartTime]:2020/09/21 16:27:07.261
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1254396,[ValidTurnover]:89.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.216,[RoundStartTime]:2020/09/21 16:27:07.216
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1285759,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.309,[RoundStartTime]:2020/09/21 16:27:07.309
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1252365,[ValidTurnover]:90.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.211,[RoundStartTime]:2020/09/21 16:27:07.211
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1276423,[ValidTurnover]:97.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.283,[RoundStartTime]:2020/09/21 16:27:07.283
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1275474,[ValidTurnover]:98.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.280,[RoundStartTime]:2020/09/21 16:27:07.280
+[RuleId]:4403,[Website]:UNITTest,[UserId]:user1959,[RoundId]:Mexico-UNITTest-01-GA1278876,[ValidTurnover]:99.0,[Currency]:JP,[CreateTime]:2020/09/21 16:27:07.290,[RoundStartTime]:2020/09/21 16:27:07.290
+------ 總和: 1937.0 ------
+------ 平均: 71.7 ------

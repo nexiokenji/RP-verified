@@ -7,13 +7,26 @@ def AVERAGE(data_list, baseNumber, removeCount):
     else:
       return sum(data_list) / (baseNumber-removeCount)
 
+  #投注等級計算
+def LEVEL(averageNumber):
+  if averageNumber >= 5 and averageNumber <= 9.99:
+    return "投注等級 L0"
+  elif averageNumber >= 10 and averageNumber <= 49.99:
+    return "投注等級 L1"
+  elif averageNumber >= 50 and averageNumber <= 99.99:
+    return "投注等級 L2"
+  elif averageNumber >= 100 and averageNumber <= 500:
+    return "投注等級 L3"
+  else:
+    return "不在範圍內"
+
 #打開CSV 檔 並搜尋單一user
-with open('2000users30wBet.csv', newline='') as csvfile:
+with open('960users144000Bets.csv', newline='') as csvfile:     #請輸入檔案名稱
   reader = csv.reader(csvfile)
   betList = []
   data = {}
   for row in reader:
-    if row[0] == "user0933":   #填寫單一userID
+    if row[0] == "user0401":   #填寫搜尋的單一userID
       if(float(row[1])>=5):
         betList.append(float(row[1]))
   print("原始資料: ", "\n", betList, "\n")  
@@ -36,7 +49,8 @@ with open('2000users30wBet.csv', newline='') as csvfile:
       betListTemp.remove(max(betListTemp))
     print("第", k+1, "個紅包投注額 扣掉最高三組後：", "\n", betListTemp)
 
-    print("總和: ", sum(betListTemp), "平均: ", AVERAGE(betListTemp, baseNumber, removeCount), "\n")
+    averageNumber = AVERAGE(betListTemp, baseNumber, removeCount)
+    print("總和: ", sum(betListTemp), ";", "平均: ", AVERAGE(betListTemp, baseNumber, removeCount), ";", LEVEL(averageNumber), "\n")
 
     count += 1
 

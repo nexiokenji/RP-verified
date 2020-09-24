@@ -1,0 +1,130 @@
+ 
+stress002993 ,  710a313c59403a9ef2cd478aa5c7fc8872f2f21a
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+431 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+302 ms
+ 
+拿到的值 = stress002993
+ 
+stress002994 ,  bb9c245cf759a01dd8a833c69444e1ad1840d7bf
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+402 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+298 ms
+ 
+拿到的值 = stress002994
+ 
+stress002995 ,  42d6a972dc63bb9a4914015f597c0f1eae0601ea
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+408 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+511 ms
+ 
+拿到的值 = stress002995
+ 
+stress002996 ,  e9c01f87d843a5d8c1f6fcc0275ff9203c057a28
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+2.36 s
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+2.17 s
+ 
+拿到的值 = stress002996
+ 
+stress002997 ,  3b15ee53799c2b35fd86e56c4b0c91e8240c422e
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+413 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+515 ms
+ 
+拿到的值 = stress002997
+ 
+stress002998 ,  158718cccc17bd8d48a254dd02c3189d64957bfd
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+626 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+414 ms
+ 
+拿到的值 = stress002998
+ 
+stress002999 ,  2676b0ccea496a7f81d9210a15fbc0c0434fb02d
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+390 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+567 ms
+ 
+拿到的值 = stress002999
+ 
+stress003000 ,  cf80c0b76ef5ef4a73b40d30a60bf68d7263241c
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+619 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+309 ms
+ 
+拿到的值 = stress003000
+ 
+stress003001 ,  db4a4ae40c2542b673acebeeb8d9f01f6fd7833a
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+438 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+462 ms
+ 
+拿到的值 = stress003001
+ 
+stress003002 ,  74085ce8f1c12a15333b3bb194fb3aa64bb629b3
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+588 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+301 ms
+ 
+拿到的值 = stress003002
+ 
+stress003003 ,  43616dd35089934a0d39751f6d09e030ead9c414
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/players
+200
+570 ms
+ 
+POST https://ae-boapi.stgdevops.site/ae-ims/api/v1/manualadjusts
+200
+303 ms
