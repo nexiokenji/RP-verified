@@ -9,7 +9,7 @@ window = tk.Tk()
 window.title('Redpacket Approx')
 window.geometry('800x600')
 window.configure(background='#323232')
-window.iconbitmap('Nexio.ico')
+
 
 
 
